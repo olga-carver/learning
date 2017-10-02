@@ -1,0 +1,32 @@
+.background {
+	background-color: lightgray;
+}
+
+.headers {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.image {
+	text-align: center;
+}
+
+img {
+	border: 15px solid gray;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.line {
+	text-decoration: underline;
+}
+
+.list {
+	font-style: italic;
+}
+
+.strike {
+	text-decoration: line-through;
+}
