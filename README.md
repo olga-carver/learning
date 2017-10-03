@@ -20,3 +20,5 @@
 [Урок 13](https://olga-carver.github.io/lesson_13/ "Урок 13") - вёрстка формы с использованием pixel perfect
 
 [Практика. Часть 1](https://olga-carver.github.io/practice_p1/src/ "Практика. Часть 1") - вёрстка шапки сайта
+
+[Урок 14](https://olga-carver.github.io/lesson_14/ "Урок 14") - подключение шрифтов
