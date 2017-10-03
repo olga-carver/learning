@@ -18,3 +18,5 @@
 [Урок 10](https://olga-carver.github.io/lesson_10/ "Урок 10") - тренировка использования less 
 
 [Урок 13](https://olga-carver.github.io/lesson_13/ "Урок 13") - вёрстка формы с использованием pixel perfect
+
+[Практика. Часть 1](https://olga-carver.github.io/practice_p1/src/ "Практика. Часть 1") - вёрстка шапки сайта
