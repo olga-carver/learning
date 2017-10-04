@@ -22,3 +22,5 @@
 [Практика. Часть 1](https://olga-carver.github.io/practice_p1/src/ "Практика. Часть 1") - вёрстка шапки сайта
 
 [Урок 14](https://olga-carver.github.io/lesson_14/ "Урок 14") - подключение шрифтов
+
+[Практика. Часть 2](https://olga-carver.github.io/practice_p2/src/ "Практика. Часть 2") - вёрстка первого блока сайта
