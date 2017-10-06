@@ -51,20 +51,6 @@ h2 {
 	background-size: cover;
 }
 
-.button-one:hover {
-	border: 1px solid green;
-	box-shadow: 5px 5px 5px green;
-	color: green;
-	transition: 0.5s;
-}
-
-.button-two:hover {
-	border: 1px solid red;
-	box-shadow: 5px 5px 5px red;
-	color: red;
-	transition: 0.5s;
-}
-
 .button-one {
 	border: none;
 	font-weight: 700;
@@ -76,6 +62,18 @@ h2 {
  box-shadow: 0 -3px rgb(53,167,110) inset;
  transition: 0.2s;
 }
+
+.button-one:hover {
+	.button-one:hover {
+	width: 200px;
+	height: 50px;
+	background-color: blue;
+	color: yellow;
+	border-radius: 7px;
+	box-shadow: 0 -3px lightblue inset;
+	transition: 0.5s;
+}
+	
 .button-two {
 	display: inline-block;
  color: white;
@@ -87,4 +85,11 @@ h2 {
  border-radius: 6px;
  background: linear-gradient(#F3AE0F, #E38916) #E38916;
  transition: 0.2s;
+}
+	
+.button-two:hover {
+	border: 1px solid red;
+	box-shadow: 5px 5px 5px red;
+	color: red;
+	transition: 0.5s;
 }
