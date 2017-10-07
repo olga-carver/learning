@@ -28,3 +28,5 @@
 [Урок 15](https://olga-carver.github.io/lesson_15/ "Урок 15") - псевдоклассы и псевдоэлементы (затемнение изображений и эффекты для кнопок при наведении)
 
 [Практика. Часть 3](https://olga-carver.github.io/practice_p3/src/ "Практика. Часть 3") - адаптив для сайта
+
+[Урок 16](https://olga-carver.github.io/lesson_16/src/ "Урок 16") - слайдер fotorama
