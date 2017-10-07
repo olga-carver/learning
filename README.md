@@ -29,4 +29,4 @@
 
 [Практика. Часть 3](https://olga-carver.github.io/practice_p3/src/ "Практика. Часть 3") - адаптив для сайта
 
-[Урок 16](https://olga-carver.github.io/lesson_16/src/ "Урок 16") - слайдер fotorama
+[Урок 16](https://olga-carver.github.io/lesson_16-1 "Урок 16") - слайдер fotorama
