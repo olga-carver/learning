@@ -35,3 +35,4 @@
 
 [Урок 17](https://olga-carver.github.io/lesson_17/src/ "Урок 17") - всплывающее окно от bootstrap
 
+[Практика. Часть 5](https://olga-carver.github.io/practice_p5/src/ "Практика. Часть 5") - модальное окно "получить консультацию"
