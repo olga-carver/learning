@@ -1,0 +1,46 @@
+.btn {
+	margin-top: 100px;
+	margin-left: 200px;
+}
+
+.close {
+	color: #ffffff;
+}
+
+.modal-header {
+	color: #ffffff;
+	border-radius: 5px;
+	box-shadow: 0 3px #5c515c inset;
+	background: linear-gradient( #5c515c, #2f222e);
+}
+
+.modal-body {
+	color: #989898;
+}
+
+.modal-dialog {
+	margin-top: 100px;
+	width: 400px;
+}
+
+.modal-footer {
+	height: 70px;
+}
+
+.choice {
+	margin-top: -5px;
+	color:  #ffffff;
+	border: none;
+}
+
+.yes {
+	position: absolute;
+	left: -170px;
+	background: linear-gradient( #83b36b, #83b36b);
+}
+
+.no {
+	position: absolute;
+	right: 250px;
+	background: linear-gradient( #db6464, #c94949);
+}
