@@ -32,3 +32,6 @@
 [Урок 16](https://olga-carver.github.io/lesson_16/src/ "Урок 16") - слайдер fotorama
 
 [Практика. Часть 4](https://olga-carver.github.io/practice_p4/src/ "Практика. Часть 4") - слайдер для блока с преимуществами
+
+[Урок 17](https://olga-carver.github.io/lesson_17/src/ "Урок 17") - всплывающее окно от bootstrap
+
