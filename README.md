@@ -40,3 +40,5 @@
 [Урок 18-1](https://olga-carver.github.io/lesson_18-1/src/ "Урок 18-1") - аккордеон от bootstrap
 
 [Урок 18-2](https://olga-carver.github.io/lesson_18-2/src/ "Урок 18-2") - вёрстка формы, используя табы от bootstrap
+
+[Практика. Часть 6](https://olga-carver.github.io/practice_p6/src/ "Практика. Часть 6") - блок с ценами
