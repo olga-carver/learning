@@ -42,3 +42,5 @@
 [Урок 18-2](https://olga-carver.github.io/lesson_18-2/src/ "Урок 18-2") - вёрстка формы, используя табы от bootstrap
 
 [Практика. Часть 6](https://olga-carver.github.io/practice_p6/src/ "Практика. Часть 6") - блок с ценами
+
+[Урок 19](https://olga-carver.github.io/lesson_19/src/ "Урок 19") - добавление анимации элементам формы из урока 18
