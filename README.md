@@ -45,4 +45,7 @@
 
 [Урок 19](https://olga-carver.github.io/lesson_19/src/ "Урок 19") - добавление анимации элементам формы из урока 18
 
+[Практика. Часть 7](https://olga-carver.github.io/practice_p7/src/ "Практика. Часть 7") - блок с отзывами
+
+
 [Урок 20](https://olga-carver.github.io/lesson_20/src/ "Урок 20") - видеофон
