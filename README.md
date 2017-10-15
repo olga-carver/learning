@@ -47,5 +47,7 @@
 
 [Практика. Часть 7](https://olga-carver.github.io/practice_p7/src/ "Практика. Часть 7") - блок с отзывами
 
-
 [Урок 20](https://olga-carver.github.io/lesson_20/src/ "Урок 20") - видеофон
+
+[Практика. Часть 8](https://olga-carver.github.io/practice_p8/src/ "Практика. Часть 8") - блок с отзывами, адаптив
+
