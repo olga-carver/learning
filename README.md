@@ -51,3 +51,9 @@
 
 [Практика. Часть 8](https://olga-carver.github.io/practice_p8/src/ "Практика. Часть 8") - блок с отзывами, адаптив
 
+[Урок 21](https://olga-carver.github.io/lesson_21/src/ "Урок 21") - parallax-эффект 
+
+[Практика. Часть 9](https://olga-carver.github.io/practice_p9/src/ "Практика. Часть 9") - блоки "этапы" и "всё включено"
+
+[Урок 22](https://olga-carver.github.io/lesson_22/src/ "Урок 22") - Яндекс-карты
+
