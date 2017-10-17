@@ -57,3 +57,5 @@
 
 [Урок 22](https://olga-carver.github.io/lesson_22/src/ "Урок 22") - Яндекс-карты
 
+[Практика. Часть 10](https://olga-carver.github.io/practice_p10/src/ "Практика. Часть 10") - блок "развеем опасения"
+
