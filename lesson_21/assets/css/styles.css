@@ -291,28 +291,31 @@ a.btn-cta {
   height: 560px;
   background-position: center center;
 }
-/* .hero-carousel .carousel-inner .item-1 {
+ .hero-carousel .carousel-inner .item-1 {
   background-image: url('../images/hero-1.jpg');
+   background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}*/
-/* .hero-carousel .carousel-inner .item-2 {
+}
+  .hero-carousel .carousel-inner .item-2 {
   background-image: url('../images/hero-2.jpg');
+    background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   
-} */
-/* .hero-carousel .carousel-inner .item-3 {
+} 
+ .hero-carousel .carousel-inner .item-3 {
   background-image: url('../images/hero-3.jpg');
+   background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}  */
+} 
 .hero-carousel .carousel-inner .heading {
   font-size: 30px;
   line-height: 1.4;
