@@ -1,0 +1,193 @@
+/* Fonts settings */
+@font-face {
+  font-family: 'Roboto_reg';
+  src: url('../fonts/Roboto-Regular.eot');
+  src: url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-Regular.woff2') format('woff2'), url('../fonts/Roboto-Regular.woff') format('woff'), url('../fonts/Roboto-Regular.ttf') format('truetype'), url('../fonts/Roboto-Regular.svg#Roboto-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto_bold';
+  src: url('../fonts/Roboto-Bold.eot');
+  src: url('../fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-Bold.woff2') format('woff2'), url('../fonts/Roboto-Bold.woff') format('woff'), url('../fonts/Roboto-Bold.ttf') format('truetype'), url('../fonts/Roboto-Bold.svg#Roboto-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+/*Colors*/
+html {
+  font-size: 10px;
+}
+body {
+  font-family: 'Roboto_reg', sans-serif;
+}
+body .btn.focus,
+body .btn:focus,
+body .btn:hover {
+  color: #ffffff;
+}
+body h1 {
+  font-size: 4.1rem;
+  text-transform: uppercase;
+  font-family: 'Roboto_bold', sans-serif;
+  color: #f7ca18;
+}
+body h2 {
+  font-size: 3.2rem;
+}
+body .small-title {
+  font-size: 1.8rem;
+  color: #f7ca18;
+}
+body .connect-btn {
+  background-color: #06b9b7;
+  color: #ffffff;
+  font-size: 1.3rem;
+}
+body .connect-btn img {
+  width: 1.5rem;
+  height: 1.7rem;
+  margin-right: 1rem;
+}
+body button:hover {
+  color: none;
+  background-color: #049492;
+}
+body .app-btn {
+  text-transform: uppercase;
+  background-color: #06b9b7;
+  color: #ffffff;
+  font-size: 1.5rem;
+  padding: 2.7rem;
+}
+header {
+  position: fixed;
+  opacity: 10;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  width: 100%;
+  height: 11rem;
+  padding: 2.2rem 0;
+  text-align: center;
+  font-size: 2.1rem;
+}
+header .logo {
+  display: inline-block;
+  padding: 1.3rem 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #e23a44;
+  width: 138px;
+  height: 70px;
+}
+header .phone-number {
+  font-family: 'Roboto_bold', sans-serif;
+}
+.main-block {
+  margin-top: 11.3rem;
+  padding-top: 7rem;
+  color: #ffffff;
+  width: 100%;
+  height: 58.7rem;
+  text-align: center;
+  background-image: url(../images/main-bg.jpg);
+}
+.main-block .period {
+  font-size: 2.6rem;
+  color: #ffffff;
+}
+.main-block .app-btn {
+  margin-top: 6rem;
+  margin-bottom: 4rem;
+}
+.main-block p {
+  font-size: 2rem;
+}
+.main-block small {
+  font-size: 1.2rem;
+}
+@media (max-width: 1200px) {
+  .main-block .app-btn {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
+  .main-block .period {
+    font-size: 1.6rem;
+  }
+}
+/* Small devices (desktops, 992px and down) */
+@media (max-width: 992px) {
+  br {
+    content: "";
+  }
+  br:after {
+    content: "\00a0";
+  }
+  header {
+    font-size: 1.8rem;
+  }
+}
+/* Extra Small devices (768px and down) */
+@media (max-width: 768px) {
+  header {
+    font-size: 1.4rem;
+  }
+}
+@media (max-width: 704px) {
+  body h1 {
+    font-size: 3.1rem;
+    text-transform: uppercase;
+    font-family: 'Roboto_bold', sans-serif;
+    color: #f7ca18;
+  }
+  body h2 {
+    font-size: 2.2rem;
+  }
+  body .connect-btn {
+    font-size: 1rem;
+  }
+  body .connect-btn img {
+    width: 1rem;
+    height: 1.2rem;
+    margin-right: 0.5rem;
+  }
+  header {
+    font-size: 1rem;
+  }
+  header .logo {
+    padding: 0;
+    width: 120px;
+    height: 30px;
+  }
+  header .logo img {
+    height: 3rem;
+  }
+  .main-block {
+    margin-top: 11.3rem;
+    padding-top: 3rem;
+  }
+  .main-block .period {
+    font-size: 1.6rem;
+  }
+}
+@media (max-width: 421px) {
+  .header-text,
+  .phone-number {
+    display: none;
+  }
+  body .app-btn {
+    font-size: 1.2rem;
+    padding: 1rem;
+  }
+  .connect-btn {
+    position: absolute;
+    right: -8rem;
+  }
+  header {
+    height: 7rem;
+  }
+  .main-block {
+    margin-top: 7rem;
+  }
+}
